@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 934ff009-8481-d03d-305e-df4047cac9b7
+  name: Programa de estudios
+  pageRef: /pages/programa-de-estudios
+  weight: 10
+- identifier: ef18ac22-9c5e-626d-97e2-727ecab6ff99
+  name: Material de lectura
+  pageRef: /pages/material-de-lectura
+  weight: 20
+- identifier: f17ec699-d546-15f6-66bc-355732f6cd90
+  name: "V\xEDdeos"
+  pageRef: /video_galleries/videos
+  weight: 30
